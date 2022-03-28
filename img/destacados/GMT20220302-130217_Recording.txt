@@ -1,0 +1,398 @@
+01:26:45	Emiliano Marchese:	Solo zoom no me deja usar los aéreos con los auriculares enchufdos
+01:26:50	Diego Borges:	😎👌
+01:27:15	Tadeo Gimenez:	holaaaa
+01:27:30	[TUTOR]Jean Baladi:	buen dia Lau!
+01:27:32	[Tutora] Ayelen Campot:	😊
+01:27:45	Rafael Piotti:	se puede hacer un repaso de la clase pasada de como acomodar un lista de la nav en una caja horizontal
+01:28:05	[Tutora] Ayelen Campot:	Rafa con flexbox lo vas a poder hacer también
+01:28:36	Rafael Piotti:	es cierto. pero quería cerrar ese concepto
+01:29:28	Teresita Gr:	Holaaa
+01:29:32	matias:	hola se me hizo imposible hacer la botonera en forma horizontal
+01:29:59	Santiago De Luca - carla alonso:	muy difícil lo de la botonera estuve horas jaja
+01:30:30	Federico Canosa:	yo todavía estoy peleando con redimensionar las imagenes
+01:30:43	Diego Borges:	con Flex ahora lo hacemos de taquito, ni hablar con lo que viene en la clase siguiente
+01:31:10	Elias Martinez:	pero el desafio de ahora hay que hacerlo sin flex
+01:31:30	Jesu Castelli Azpiroz:	Pero se le puede agregar flex aunque no sea un requerimiento?
+01:31:44	Diego Borges:	se peude usar float:left/right, pero con lo de hoy queda obsoleto
+01:31:45	Jesu Castelli Azpiroz:	O es si o si solo hasta lo que vimos el lunes?
+01:32:07	Elias Martinez:	creo que no se puede usar flex en este desafio
+01:32:11	Emiliano Marchese:	wrrebep
+01:32:24	Diego Borges:	no se puede porque no eran temas vistos
+01:32:55	[Tutora] Ayelen Campot:	En el desafío del lunes no entra flexbox pero recuerden que solo pide algunas propiedades de Box Model
+01:33:03	[Tutora] Ayelen Campot:	No es necesario que acomoden todo con box model
+01:33:03	Diego Borges:	pero al contenido del nav, los meten en don divs y le dan float
+01:33:12	Diego Borges:	*en dos
+01:33:24	Federico Canosa:	jajajajaja unas ganas de cabecear una bala....
+01:33:32	Diego Borges:	jajajajaj
+01:33:36	Emiliano Marchese:	🤣
+01:33:57	Elias Martinez:	penal para boca
+01:34:02	Emiliano Marchese:	No seas coderdepresivo (?
+01:36:02	Diego Borges:	siiiiii ahora no lo veo tanto, pero había mucho de eso
+01:36:39	Fernando Arleo:	consulta y si querés tener los botones izq derecha de pedidos ya y toque osea uno al lado del otro
+01:36:58	[Tutora] Ayelen Campot:	Ahora lo vemos fer
+01:37:27	[Tutora] Ayelen Campot:	Con flexbox vamos a ver formas para acomodar los elementos
+01:37:31	Federico Canosa:	CoderLátigo para Laura
+01:37:37	Federico Canosa:	por no armar el cuestionario
+01:38:35	Fernando Arleo:	okis
+01:38:38	esteban godoy:	buenos dias
+01:38:41	esteban godoy:	no podía entrar
+01:38:46	Gustavo Machín Urbay:	lo siento, se me desconecto internet, ya está solucionado
+01:39:02	esteban godoy:	esteban Godoy presente
+01:39:09	Juan Errecart:	vimos float la clase pasada?
+01:39:21	[Tutora] Ayelen Campot:	Juan no es recomendable usar float
+01:39:22	Emiliano Marchese:	Lo mató al flaco jaj
+01:39:23	Federico Canosa:	JAJAJAJAJAJJA
+01:39:35	[Tutora] Ayelen Campot:	Evitemos el float
+01:39:45	Juan Errecart:	oka gracias
+01:39:52	Tomas Murphy:	float quedo el marinovio
+01:39:57	[Tutora] Ayelen Campot:	Y con flexbox no va a ser necesario
+01:40:13	Diego Borges:	float queda OBSOLETO sabiendo flex, queda en el tacho de basura con los BR
+01:40:23	Federico Canosa:	Que es el float? mas perdidos que el marinovio de la profe en la neblina (?
+01:40:28	Diego Borges:	jajaja
+01:41:19	[Tutora] Ayelen Campot:	Fede con float left ponies un contenido al lado del otro pero no se usa más
+01:41:36	Federico Canosa:	eso entraba en el desafio del lunes?
+01:41:55	Federico Canosa:	por que no lo registré en ningún momento jajaja
+01:42:08	Diego Borges:	sisi
+01:42:21	[Tutora] Ayelen Campot:	En el desafío del lunes entran propiedades de Box Model
+01:42:25	Diego Borges:	tas al coderHorno
+01:42:40	Sebastian Sonenblum:	Y flexbox no entra entonces en el desafio del lunes?
+01:42:46	[Tutora] Ayelen Campot:	No sebas
+01:42:51	Sebastian Sonenblum:	Gracias :)
+01:42:59	Fernando Arleo:	del siguiente lunes o en el actual?
+01:43:03	(Tutora)LUCIANA GARRO:	olviden a float
+01:43:15	Elias Martinez:	el flex eliminia el inline-block?
+01:43:20	(Tutora)LUCIANA GARRO:	es el tóxico
+01:43:43	(Tutora)LUCIANA GARRO:	no elias.. no lo elimina pero hay cosas más óptimas para posicionar
+01:43:43	Emiliano Marchese:	JAJA
+01:43:45	[Tutora] Ayelen Campot:	Por ahora tenemos el desafío que se habilitó el lunes que es incorporar propiedades de Box Model
+01:45:15	Diego Borges:	a cuánto la docena de velas? ;P
+01:45:51	Fernando Arleo:	linda forma de lavar dinero con las velas xd
+01:46:03	Diego Borges:	guiño guiño
+01:46:10	esteban godoy:	ujum
+01:46:27	Rafael Piotti:	por eso estamos todos con la misma duda, no se puede avanzar sin tener en claro un concepto... por mas que después no lo usemos mas. te puede tocar hacer un trabajo con eso
+01:46:28	Pablo Santos:	perdon
+01:46:36	Pablo Santos:	como se divide la pantalla?
+01:46:48	Pablo Santos:	osea en un lugar HTML y en el otro css
+01:47:07	[Tutora] Ayelen Campot:	Qué duda tenéis rafa?
+01:47:57	Lisandro Carbone:	Pablo, en el sublime, vas al menú de arriba, en la sección de "View" -> Layout y Columnas:2
+01:48:11	Rafael Piotti:	cuando trabajas un caja, y tenes que acomodar en linea o block dentro
+01:48:26	Lisandro Carbone:	O te marca el atajo ahí que es Alt+Shift+2
+01:48:52	Pablo Santos:	muchas grcias
+01:50:38	[Tutora] Ayelen Campot:	Lo podes hacer con flexbox como lo está mostrando Laura ahora. Con box model tenemos display block, display inline e inline-block
+01:50:40	Tomas Murphy:	si pongo el body en display flex?
+01:50:50	[Tutora] Ayelen Campot:	Depende de los elementos que quieras acomodar Rafa si son de línea o de bloque
+01:50:58	[Tutor]Camila Yacante:	Chicos a mis alumnos no me esta funcionando el chat de la plataforma, ahora veo si lo puedo solucionar..
+01:51:39	Santiago De Luca - carla alonso:	para la asistencia de hoy hace falta dejar el nombre acá?
+01:52:01	Elias Martinez:	el flex funciona si o si de padre a hijo? a nieto no?
+01:52:07	Rafael Piotti:	si Ayelén, entiendo lo teorico, no logro conseguir el practico..
+01:53:16	[Tutora] Ayelen Campot:	El menú al ponerle display inline pasa a ser de línea y queda en horizontal por ejemplo
+01:55:46	[Tutora] Ayelen Campot:	Elias siempre flexbox necesita un elemento o una caja padre
+01:56:22	Gustavo Machín Urbay:	Para la entrega del lunes hay que ponerle flexbox?
+01:56:30	[Tutora] Ayelen Campot:	No gus
+01:56:38	Gustavo Machín Urbay:	ok, gracias!
+01:56:41	Tomas Pujolle:	br
+01:56:49	Tomas Pujolle:	😅
+01:57:37	Emiliano Marchese:	OSea que si yo tengo varios elementos en el HTML que quiero que se muevan de determinada manera, puedo agarrarlos a todos y ponerlos dentro de un div, o un section y utilizar eso como contenedor padre?
+01:57:38	[Tutora] Ayelen Campot:	Esta forma que usa Lau de nombrar las clases bg-blue se llama kebab case
+01:57:48	[Tutora] Ayelen Campot:	Si Emi
+01:58:03	Emiliano Marchese:	Nice
+01:58:12	Diego Borges:	en los archivos del Drive que comparte la profe todas las clases, está lo que debe incluir el TP
+01:58:36	[Tutora] Ayelen Campot:	Por ejemplo podrías hacer una galería de fotos que tengan un contenedor padre y todas las imágenes son sus hijos y lo podes acomodar perfectamente
+01:58:44	Mauricio Lastarria:	alguien tiene el link del drive de donde la profe saco ese html?
+01:59:11	Diego Borges:	es el botoncito de la carpetita que está en la plataforma
+01:59:17	Emiliano Marchese:	https://drive.google.com/file/d/1DIGJWDa9-55K4kYj_Y0f2JTdfyrFMz9p/view?usp=sharing
+01:59:31	Emiliano Marchese:	Es el que pasaron hoy temprano
+01:59:34	[Tutora] Ayelen Campot:	Es el zip que está dentro de la carpeta que manda Emi
+02:00:00	Lucas Levit:	el flexbox se puede usar solo con BEM?
+02:00:12	Gustavo González PC:	mentalidad de negocios (?
+02:00:18	[TUTOR]Jean Baladi:	No necesariamente Lucas, no tiene nada que ver
+02:00:40	Federico Canosa:	Por que hago lo mismo que la profe y en la pagina no se me cambia nada?
+02:00:49	Emiliano Marchese:	f5
+02:00:55	Federico Canosa:	Además del f5
+02:01:09	Lola Espiro:	estas guardando los cambios?
+02:01:14	Lisandro Carbone:	tenes que ir guardando los cambios que haces en el sublime tambien
+02:01:17	Federico Canosa:	Save all
+02:01:20	Federico Canosa:	en el sublime
+02:01:28	Federico Canosa:	y f5 en el navegador
+02:01:29	Federico Canosa:	paero nada
+02:01:44	Emiliano Marchese:	Asegurate que estes abriendo el archivo HTML correcto y no algo que hayas guardado o duplicado
+02:02:48	Tomas Ortiz:	me pasa lo mismo que a federico
+02:04:56	[TUTOR]Jean Baladi:	Escribanle al chat a su tutor mostrándoles el código asi de podrá solucionar por que no les esta andando!
+02:05:15	[TUTOR] Felipe Ramos:	fijense que las clases esten bien escritas tanto en su html como en css
+02:09:37	Luciana González Franco:	ya pasaron el presente?
+02:09:39	esteban godoy:	ok
+02:09:52	(TUTORA) Ara Orzanco:	la asistencia se suele tomar a la mitad de la clase
+02:10:02	Luciana González Franco:	genial 💜
+02:12:56	Diego Borges:	hay un par páginas con juegos donde se pone código de FLEX y GRID para aprender jugando
+02:13:06	Federico La Rosa:	cuales?
+02:13:11	Diego Borges:	ya te los paso
+02:13:23	[TUTOR]Jean Baladi:	esta en un clásico https://flexboxfroggy.com/#es
+02:13:38	Diego Borges:	Mire esto, acá pueden aprender FLEX jugando! https://codingfantasy.com/games/flexboxadventure/play
+02:13:43	[Tutor]Camila Yacante:	Si ese que paso jean es muy entretenido para aprender el concepto
+02:13:55	Federico La Rosa:	gracias!!
+02:14:11	miguel diaz llanos:	puede retomar eso de flex?
+02:18:01	[TUTOR] Felipe Ramos:	En el break seguro que repasa todo Miguel.
+02:18:47	Joaquin Gogenola Finucci:	se le puede pone 25% al padre de las cajas?
+02:20:12	Emiliano Marchese:	Consulta, se debe tener separado style de flex como en los archivos que pasó la profe o es simplemente por la clase?
+02:20:36	[Tutor]Camila Yacante:	Es simplemente por la clase, vos vas a tener todos tus estilos en la misma hoja de css
+02:20:47	Emiliano Marchese:	selente
+02:27:03	(coordinador) Federico Castro:	Recuerden todxs tener el mismo nombre que tienen en la plataforma de coder
+02:27:16	[Tutor]Camila Yacante:	👆
+02:35:09	Lucas Sagasta:	Ya tomaron presente??
+02:35:48	jonatan geraldo:	ok
+02:36:22	Julieta López Ceratto:	cual era para separar un div de otro en el medio?
+02:37:03	Andrés Engelbrecht:	presente
+02:37:38	Emiliano Marchese:	Creo que no hay que decir presente jaj
+02:37:59	Diego Borges:	nunca hizo falta
+02:38:01	Federico Canosa:	me re encasqué ya JAJAJAJAJ, a ver de nuevo la grabacion
+02:38:29	Matias Scevola:	6 veces la grabacion
+02:38:36	Diego Borges:	cuesta! no creas si alguien te dice que es fácil
+02:38:38	jonatan geraldo:	10 veces
+02:38:55	Diego Borges:	son temas muy abstractos
+02:39:09	Diego Borges:	https://codingfantasy.com/games/flexboxadventure/play
+02:39:15	Diego Borges:	esto ayuda muchísimo!
+02:39:17	Belen Schmid Diaz:	solo 10 veces? que genios! jajajaja
+02:39:22	Diego Borges:	jajajja
+02:39:32	jonatan geraldo:	la explicacion es buena. el tema es llevarlo a la practica
+02:39:41	(coordinador) Federico Castro:	Seguro cuando termine la clases los tutores o yo les pasemos un juego para repasar el contenido de esta clase, pero sepan que lo van a terminar de entender con la practica, no tengan miedo de romper el codigo
+02:39:44	Diego Borges:	se viene grid y es otro partidero... de cabez :v
+02:40:25	Emiliano Marchese:	Creo que flex es más complicado que grid, al menos eso me parece a mi cuando intento hacer algo jaj
+02:40:37	[Tutora] Ayelen Campot:	Piensen que estamos viendo todas las propiedades de flexbox, no es que van a usar todas en su proyecto. Con la practica se va a terminar de entender
+02:41:27	Belen Schmid Diaz:	esta noche, me voy a poner con 3 litros de café a verlo de cero. Porque ya me perdi con el padre el grow el hijo que se hizo wrap y la madre... XD
+02:41:40	Abel Mendoza:	como que 6?
+02:42:10	Matias Rogel:	Alguien se acuerda la pagina que utilizo la profe para buscar fondos web?
+02:42:12	Federico La Rosa:	porque en 6?
+02:42:22	Julieta López Ceratto:	porque hay 6 fracciones
+02:42:28	Federico La Rosa:	siempre?
+02:42:35	Julieta López Ceratto:	1 al primero, 2 al segundo y 3 al tercero
+02:42:37	Diego Borges:	Matías, solo pones "fpatrones de fondo HTML" en Google y te salen un montón
+02:42:42	Tomas Pujolle:	osea que se usa repartir el espacio horizontalmente?
+02:42:43	[Tutora] Ayelen Campot:	En este ejemplo en particular fede
+02:42:49	[Tutora] Ayelen Campot:	Claro Tomi
+02:42:54	Matias Rogel:	Gracisa!
+02:42:57	Matias Rogel:	Gracias*
+02:42:57	Tomas Pujolle:	perfecto
+02:43:03	Federico La Rosa:	ah ok gracias
+02:43:07	Luciano Giordano:	Pero no funciona muy bien el grow no?
+02:43:11	Diego Hernandez:	Es preferible usar grow en lugar de width????
+02:44:52	Emiliano Marchese:	Potterhead detected (?
+02:44:57	Gustavo Machín Urbay:	profe runner
+02:45:16	Diego Borges:	me duele el cerebro 😰
+02:45:33	Gustavo Machín Urbay:	la tendremos que ver 4 veces la clase
+02:45:49	Gustavo Machín Urbay:	por suerte están grabadas
+02:46:13	[TUTOR] Felipe Ramos:	Tranqui chicos. Parece mas dificil de lo que es. Cualquier cosa dsps hacemos un repaso.
+02:46:25	Diego Borges:	esto mismo del orden se ve en la página de juegos flex que les puse
+02:46:40	Emiliano Marchese:	Habría que fijar un after para todo esto de css
+02:46:52	Federico Canosa:	Unos cuantos jajajaja
+02:46:56	Diego Borges:	ayuer no hubo after?
+02:47:18	Emiliano Marchese:	Aparecería en la página, así que no
+02:47:23	Joaquin Martin Lanfranchi:	Ayer no
+02:47:31	Diego Borges:	hacía mucha falta, mal ahí
+02:48:08	Joaquin Martin Lanfranchi:	Uno el viernes  para css
+02:48:22	Gustavo Machín Urbay:	muchas gracias!!!
+02:48:31	Gustavo Machín Urbay:	viene de 10 esa clase de repaso
+02:48:37	Diego Borges:	solía haber 1 after al  día siguiente de cada clase, cambiaron eso
+02:48:53	Felipe Pascuali:	capaz ya se hablo, pero hay alguna propiedad para que todos los hijos tengan el mismo width y que se estire el que quede abajo del mouse  o que se seleccione??
+02:49:32	Elias Martinez:	a esto quería llegar
+02:49:36	Diego Borges:	tendrías que usar el hover
+02:49:38	[Tutora] Ayelen Campot:	Vos decís feli que al pasar el mouse se agrande?
+02:49:39	Elias Martinez:	con contenido dentro
+02:49:58	Felipe Pascuali:	si eso mismo Aye
+02:50:08	[Tutora] Ayelen Campot:	Porque le tenéis que agregar un hover para eso, lo vamos a ver mejor en la clase de aniamciones
+02:50:23	Emiliano Marchese:	Hay un detalle que no entendí en como nombra las clases, porque en el documento css solo tira una parte del nombre de la class que usó en el html
+02:50:42	Felipe Pascuali:	ok, no se hace con estas propiedades entonces?
+02:51:09	Felipe Pascuali:	sigue siendo css eso?
+02:51:11	[Tutor] Christian Fernandez Juncal:	No Feli la pseudo clase :hover se la podes aplicar a cualquier elemento que quieras que tenga un acción al pasar el mouse 🙂
+02:51:33	Diego Borges:	Felipe, busca "hover css" en YT y tenes para entretenerte, todavía no las enseñaron acá
+02:51:49	Felipe Pascuali:	ok
+02:51:51	Felipe Pascuali:	gracias
+02:53:05	Diego Borges:	acá lo veo que lo enseñan en la clase 8
+02:54:21	Federico Canosa:	Cada section es un bloque?
+02:55:00	Federico Canosa:	uh estoy full Naked me estoy dando cuenta
+02:55:09	[Tutor] Christian Fernandez Juncal:	Cada section es una caja en bloque Fede, a su vez dentro de la section cada figure es otra caja dentro en bloque
+02:55:25	[Tutor] Christian Fernandez Juncal:	Fijate como de repente vamos armando cajas dentro de cajas
+02:55:31	Emiliano Marchese:	Onda mamushka
+02:55:46	[Tutor] Christian Fernandez Juncal:	Exacto Emi
+02:55:59	[Tutor]Camila Yacante:	exactamente, por eso es tan importante las tabulaciones, para que ese orden se vea prolijo
+02:56:06	Emiliano Marchese:	Por cierto, no se si alguno leyó mi consulta sobre los nombres de las clases
+02:56:09	[Tutora] Ayelen Campot:	Por eso molestamos tanto con las tabulaciones para poder visualizar la relación de padres e hijos
+02:56:28	[Tutora] Ayelen Campot:	Emi son diferentes clases que tiene dentro de una etiqueta
+02:56:32	[Tutora] Ayelen Campot:	No es que tira una parte
+02:56:47	[Tutor] Christian Fernandez Juncal:	Claro Emi recorda que si en el atributo class hay un espacio cuenta como diferentes clases
+02:56:59	Emiliano Marchese:	Claro, me explique mal, ósea, que en un class si si pones espacios podes darle dos clases a un mismo elemento?
+02:57:00	[Tutor] Christian Fernandez Juncal:	Recorda que cada etiqueta puede tener x cantidad de clases
+02:57:16	[Tutor] Christian Fernandez Juncal:	Asi es Emi
+02:57:17	Diego Borges:	ahí está la magiandel nav
+02:57:18	Matias Scevola:	yo no pude ni sacar el subrrayado todavia a la botonora, no me funciona text-decoration: none
+02:57:26	Emiliano Marchese:	Ta, demás, se me había escapado ese detalle
+02:57:34	[Tutor] Christian Fernandez Juncal:	Mati se lo tenes que aplicar a la etiqueta <a>
+02:57:38	Federico La Rosa:	no entiendo porque el health couch quedo a la derecha y no cerca de los botones
+02:57:50	Federico La Rosa:	a la izq
+02:57:53	Federico La Rosa:	*
+02:57:59	Diego Borges:	Matias, te aseguro que es porque lo estás aplicando donde no corresponde! jajaj me sigue pasando
+02:57:59	Mauricio Lastarria:	amigos tutores: ¿Porque no podemos ya usar al proximo desafio flexbox?  ¿es porque grid se usa para el layout general y flex box solo para elementos pequeños? o es incorrecto?
+02:58:28	[Tutor]Camila Yacante:	Chicos los estilos que quieran aplicar a los links, debe ser a la etiqueta <a> si no no va a funcionar por herencia digamos
+02:58:54	Diego Borges:	👆eso eso eso
+02:59:23	[Tutora] Ayelen Campot:	Al finalizar la clase explicamos bien lo de los desafío Mauri
+03:00:16	Matias Scevola:	ok gracias
+03:00:39	Lisandro Carbone:	Matias, porque con "space between" tira cada elemento para un costado por asi decirlo.. fíjate si le pones otro space como se mueve también el logo para otro lado y anda probando y mirando
+03:01:34	[Tutor] Christian Fernandez Juncal:	Mati dice Lisandro la propiedad justify-content de Flexbox ayuda a que los elementos dentro de la caja que tiene flex se puedan ubicar en diferentes espacios según el valor 🙂
+03:03:37	Lisandro Carbone:	Justify-content: space-between;Te está tirando cada elemento para un costado, "<a>" (el logo con el link) para un costado y "<ol>" que es la lista para el otro. (Intento decirlo con palabras mas normales, capaz se entiende mejor
+03:13:48	Federico Canosa:	Ya no quiero ser cerebrito,¿ donde firmo para ser corazoncito, higadito, estomaguito u otra cosa mas fácil?
+03:14:28	Diego Borges:	❤️
+03:14:34	Carlos Rodríguez:	😩
+03:14:35	nicolas pedicino:	🤩
+03:14:37	Luciano Giordano:	Tremendo!
+03:14:38	Emiliano Marchese:	🥰
+03:14:39	jonatan geraldo:	mañana hay que entregar algo?
+03:14:40	Rafael Piotti:	😎
+03:14:42	Tomas Pujolle:	esta barbaro
+03:14:44	Diego Hernandez:	me duele la cabeza... jaja
+03:14:45	Diego Borges:	pero me duele el cerebro
+03:14:46	Giuli Galletine:	😁
+03:14:46	Gastón Piñeiro:	😐
+03:14:49	Ariel Ulczyk:	🤯
+03:14:50	Leandro Ezequiel Mena:	😅
+03:14:51	[Tutor] Christian Fernandez Juncal:	Gran Herramienta, paciencia que es super util
+03:14:52	Ariel Martinez:	🙃
+03:14:52	Rodrigo Comesaña:	😀
+03:14:52	Leandro Tognetti:	💟
+03:14:56	Florencia Pellis:	Voy a ver el video mil veces jaja
+03:15:02	jonatan geraldo:	😭
+03:15:06	Gastón Piñeiro:	yo también 😅
+03:15:14	Rafael Piotti:	flex es mas practico, me quedo muchas dudas de la cxlase pasada
+03:15:19	Leandro Ezequiel Mena:	Tendre que ver la clase en cámara lenta
+03:15:25	Felipe Pascuali:	😶‍🌫️👍
+03:16:57	Mauricio Lastarria:	pregunta: en los anteriores desafíos se pedía mucho 5 html , es necesario volver a hacer esos 5 html y 5 wireframes? o ya puedo si deseo solo hacer 3 html o una one single page???
+03:17:13	Mauricio Lastarria:	es que siento que estoy haciendo secciones de relleno jejej , quisiera solo hacer las necesarias
+03:17:23	[Tutor DW] Gerardo Gambarte:	son 5 archivos html como minimo
+03:17:30	Mauricio Lastarria:	ok
+03:17:34	[Tutor DW] Gerardo Gambarte:	ya deberían ir trabajando sobre eso
+03:17:36	[Tutor] Jonatan Pereyra:	Recuerden ver las rubricas de cada desafio chicos
+03:17:40	[Tutor DW] Gerardo Gambarte:	tipo encarando como proyecto final
+03:17:47	[Tutor] Jonatan Pereyra:	Para ver exactamente que se pide en cada entrega y preentrega
+03:17:47	Leandro Tognetti:	los wireframes los exportamos de balsamiq o le damos calidad?
+03:18:05	Federico Canosa:	VAAAAAAAAAAMO ÑUBEEEEL
+03:18:07	Ariel Ulczyk:	serian 10 wireframes?
+03:18:08	[Tutor DW] Gerardo Gambarte:	los wireframes como pdf con eso estamos joya
+03:18:13	Bruna Silvetti:	Una consulta, que diferencia hay entre este desafio y el del lunes??
+03:18:14	[Tutor] Jonatan Pereyra:	De balsamiq como pdf estaría bien
+03:18:21	Leandro Tognetti:	Gracias!
+03:18:24	Nicolas Succo:	De algo hay que morir
+03:18:24	miguel diaz llanos:	1 semana de entrega?
+03:18:26	[Tutor DW] Gerardo Gambarte:	si! 10, 5 mobile y 5 desktop
+03:18:27	Clara Isabel Lemos:	Y si quisiéramos usar flex box no se puede ?
+03:18:37	Luciano Giordano:	O sea CSS solo colores, tipografías, etc pero dejamos fuera el layout?
+03:18:39	[Tutor] Jonatan Pereyra:	Se puede clara, pero no es evaluable
+03:18:40	[Tutor] Christian Fernandez Juncal:	jajaja
+03:18:52	[Tutor DW] Gerardo Gambarte:	claro, si lo usan no lo evaluamos por que no se pide en esa entrega
+03:18:53	[TUTOR] Victor Lieggi:	claro, lo ideal es entregar lo pedido en el desafio
+03:18:54	Joaquin Martin Lanfranchi:	Magnifico lo de los after!!!
+03:19:01	Joaquin Osman:	buena onda
+03:19:13	Naiara Nuñez:	El prototipo sería de cada wireframe también?
+03:19:16	Josefina Díaz Guiñazú:	Cuando son los after?
+03:19:24	[Tutor] Christian Fernandez Juncal:	Clara como dijo Gera no es necesario utilizar flex, pero si lo usas no hay problema, no lo pide esta primera pre entrega 🙂
+03:19:24	[Tutor] Jonatan Pereyra:	Si Nai
+03:19:33	[TUTOR] Victor Lieggi:	exacto, el wireframe es de cada vista, tanto en desktop como en mobile
+03:19:49	[Tutor] Christian Fernandez Juncal:	Igual como siempre a mis alumnos les voy a dejar en el canal de la tuto el material de clase y el resumen para que lo veas Clara 🙂
+03:19:53	Naiara Nuñez:	Okey
+03:19:54	Bruna Silvetti:	Una consulta, que diferencia hay entre este desafio y el del lunes??
+03:20:00	Mauricio Lastarria:	muy cierto, si hacemos todo con flex ahora, despues vamos a tener que re-hacer con grid
+03:21:01	[Tutor DW] Gerardo Gambarte:	bruna
+03:21:07	Mauricio Lastarria:	los wireframes pueden seguir siendo como bocetos a blanco y negro , o ya es necesario en el balsamiq ponerles colores y alguno que otra estética?
+03:21:07	Gustavo Daniel:	Laura! lo de los 4 HTML.. lo puedes repetir? Yo tengo un solo HTML de una home page. y linkie las distintas secciones dentro de la home, como son inico, nosotros, productos, contacto
+03:21:09	[Tutor DW] Gerardo Gambarte:	vendría a ser como una suma de los dos principales
+03:21:27	Sara Ortiz Rodríguez:	en esta entrega del proyecto, solo el Index es el que tiene que tener css,si?los otros html no se tocan por el momento?
+03:21:32	Bruna Silvetti:	genial, graciasss
+03:21:39	Mauricio Lastarria:	juego? me encanta, pasa link
+03:21:42	Fernando Arleo:	ok
+03:21:42	Elias Martinez:	repitan por favor la entrega para este desafio
+03:21:51	Jonathan Quiroz:	El numero 24 si costo trabajo
+03:21:55	(coordinador) Federico Castro:	https://flexboxfroggy.com/#es
+03:21:58	[Tutor DW] Gerardo Gambarte:	sara, lo ideal seria que todo tenga un poco de estilos
+03:22:01	Gustavo Daniel:	Laura! lo de los 4 HTML.. lo puedes repetir? Yo tengo un solo HTML de una home page. y linkie las distintas secciones dentro de la home, como son inico, nosotros, productos, contacto
+03:22:31	(Tutora)LUCIANA GARRO:	el viernes 10 am tenemos after como comento fede!
+03:22:45	[Tutor] Jonatan Pereyra:	Importante lo que dice Aye!
+03:22:52	Adriana Naranjo R.:	¿Esos otros 4 HTML deben de llevar CSS también? Todo ya con color y estilos
+03:23:01	[Tutor DW] Gerardo Gambarte:	en lo posible si
+03:23:12	Federico Canosa:	Como que me dieron ganas de invadir FLEX...*Llama por HangOuts a Vladi*
+03:23:21	[Tutor DW] Gerardo Gambarte:	no apliquen la ley del minimo esfuerzo jajaja practiquen y vayan metiendo mano en el codigo
+03:23:27	Facundo Tadini:	el del lunes Tambien es obligatorio o es opcional?
+03:23:36	[Tutor DW] Gerardo Gambarte:	el del lunes pasado?
+03:23:39	[Tutor DW] Gerardo Gambarte:	obligatorio
+03:23:45	Facundo Tadini:	el de este lunes que paso
+03:23:53	Facundo Tadini:	ah perfecto
+03:24:00	[Tutor DW] Gerardo Gambarte:	claro si, recuerden que los de color verde y amarillo son obligatorios
+03:24:15	[Tutor DW] Gerardo Gambarte:	los de color  gris que son complementarios no son obligatorios pero si suman un punto si los hacen
+03:24:16	Marina Chialvo:	para cuando seria esta pre entrega? Nose si lo dijeron
+03:24:24	Elias Martinez:	el miercoles
+03:24:25	[Tutor DW] Gerardo Gambarte:	una semana en total
+03:24:36	[Tutor]Camila Yacante:	una semana marina, siempre son 7 dias
+03:24:36	Carlos Rodríguez:	El prototipo debe ser funcional y que estén conectadas las páginas entre sí?
+03:24:37	[Tutor DW] Gerardo Gambarte:	todos los desafíos tienen siempre una semana en total para hacerlos
+03:24:37	Jesica Moreno:	el del lunes, se entrega wireframe?
+03:24:40	[Tutor] Jonatan Pereyra:	MAS que importante lo que dice Aye sobre los formatos
+03:24:47	[Tutor] Jonatan Pereyra:	No Jesi
+03:24:47	Emiliano Marchese:	Han habido opcionales hasta ahora?
+03:24:53	Marina Chialvo:	lunes 7 máximo para el desafio y miércoles 9 la pre entonces
+03:24:54	Emiliano Marchese:	Si fue así me los comí en dos panes
+03:24:55	[Tutora] Ayelen Campot:	Aun no emi
+03:25:00	[Tutor DW] Gerardo Gambarte:	carlos, te refereris al diseño?
+03:25:01	[Tutor] Jonatan Pereyra:	No Emi, en grid se abre el primer complementario
+03:25:04	[Tutor DW] Gerardo Gambarte:	osea al wireframe
+03:25:07	Emiliano Marchese:	Ah, me asuste jaj
+03:25:14	Mauricio Lastarria:	prototipo wireframe a blanco y negro o ya hay que ponerle colorcitos?
+03:25:29	[Tutor DW] Gerardo Gambarte:	los wireframes pueden ser como quierna, a color o blanco y negro
+03:25:35	[Tutor DW] Gerardo Gambarte:	no hay drama mientras refleje lo que hacen en el html
+03:25:37	Carlos Rodríguez:	si justo es que yo lo hago en Figma Gerardo
+03:25:39	Mauricio Lastarria:	ok, lo mas importante es darle color al html
+03:26:02	[Tutor DW] Gerardo Gambarte:	claro no es necesario solo debe tener interraccion o navegabilidad en el html
+03:26:08	[Tutor] Christian Fernandez Juncal:	Bruno Como le comentaba a Clara y como dice Lau, no hay problema que entregues flex pero no se evaluara, solo se evaluara hasta el css de clase anterior
+03:26:14	[Tutor DW] Gerardo Gambarte:	podes enviar captura o el link donde se vean las distintas vistas
+03:26:35	[Tutor] Christian Fernandez Juncal:	Se suma el Wireframe de todas las paginas (al menos 5) en ambas vistas, cel y escritorio, total 10 wireframes
+03:26:38	Jesica Moreno:	solo se entrega wireframes en la pre entrega de proyecto final? de cada HTML?
+03:27:01	[Tutor DW] Gerardo Gambarte:	jesi, wireframes y todo el código html mas css
+03:27:12	[Tutor DW] Gerardo Gambarte:	ah si
+03:27:19	[Tutor DW] Gerardo Gambarte:	si te refereis a que solo en las entregas intermedia si
+03:27:24	[Tutor DW] Gerardo Gambarte:	en la 1era solamente
+03:27:55	Jesica Moreno:	listo gracias
+03:28:00	[Tutor DW] Gerardo Gambarte:	10-4 ajajajajajja
+03:28:11	[Tutor] Christian Fernandez Juncal:	Recuerden que si surge alguna duda o lo que necesiten estamos por chat de la plataforma para ayudarlos 🙂
+03:28:52	Jesica Moreno:	me tengo q ir a trabajar, saludos a todos
+03:29:00	[Tutor] Christian Fernandez Juncal:	Saludos Jesi
+03:29:04	Ariel Martinez:	consulta... tienen modelos de wireframes de otras entregas para que podamos ver como tendríamos que entregar el trabajo
+03:29:20	Santiago Speltini:	Chau saludos, tengo que cortar tambien
+03:29:47	Adriana Naranjo R.:	Secundo lo que pide Ariel 😄
+03:30:04	esteban godoy:	🙂
+03:30:20	Luciano Giordano:	Bueno me voy
+03:30:21	Luciano Giordano:	Saludos!
+03:30:25	esteban godoy:	saludos
+03:31:19	Juan Errecart:	chau saludos
+03:31:23	Abel Mendoza:	Hola me tengo que ir a trabajar, buena jornada
+03:31:28	nicolas pedicino:	Me tengo que retirar! Mando un saludo, gracias por la clase !!
+03:31:30	Abel Mendoza:	El que aprende y aprende y no practica lo que sabe, es como el que ara y ara y no siembra
+03:31:45	esteban godoy:	por ahora no
+03:31:51	[Tutor] Christian Fernandez Juncal:	Saludos a tod@s! Cualquier cosita estamos por chat de la plataforma 🙂
+03:31:51	[Tutor]Camila Yacante:	todo perfecto de mi parte!
+03:31:57	Nicolas Succo:	Ta luego!
+03:32:01	Franco Avila:	Chau profe gracias
+03:32:02	Luciana González Franco:	gracias profe
+03:32:04	[Tutor DW] Gerardo Gambarte:	cualquier duda al chat
+03:32:05	Gastón Piñeiro:	saludos!
+03:32:05	[Tutor] Jonatan Pereyra:	Buen finde!
+03:32:06	[Tutor DW] Gerardo Gambarte:	de zoom
+03:32:08	esteban godoy:	hasta luegooo
+03:32:08	Joaquin Gogenola Finucci:	buen findee
+03:32:10	[Tutor]Camila Yacante:	Saludos a todos!!!
+03:32:10	Alfredo Matheus:	Hasta luego. Saludos.
+03:32:10	Luciana González Franco:	nos vemos la semana que viene
+03:32:11	Federico Canosa:	Nos vemos gente buen finde
+03:32:12	Rodrigo Comesaña:	gracias profe!!! adiós
+03:32:13	esteban godoy:	saludos a todosss
+03:32:13	Tomas Pujolle:	saludos
+03:32:14	Lucas Garcia:	Buen finde
+03:32:15	[Tutor]Camila Yacante:	buen findee!
+03:32:15	Gustavo Gonzalez:	Nos vemos que pasen bien !
+03:32:16	[Tutor] Christian Fernandez Juncal:	Saludoss
+03:32:17	Naiara Nuñez:	Saludos!
+03:32:20	[Tutora] Ayelen Campot:	Nos vemos gente consulten cualquier cosa
