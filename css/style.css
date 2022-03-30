@@ -14,96 +14,46 @@ p, li {
 	line-height: 3rem;
 }
 
+a {
+	text-decoration: none;
+}
+
 
 
 											/* FOOTER Y ENCABEZADOS GENERALES */
 
-nav.encabezado {
+.encabezado {
 	background-color: rgba(0,0,0,1);
-	position: sticky;
 }
 
-	nav.encabezado ul {
-		display:flex;
-		align-items: center;
-		justify-content: space-between;
-		list-style: none;
+    .textNav {
+		display: block;
+    	padding: 0.5rem 1.5rem;
+    	color: #F3F3F3; 
+    	text-decoration: none;
+    	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 	}
 
-		nav.encabezado li a{
-			text-decoration: none;
-			padding: 1.5rem;
-			color: #FFFFFF;
-			font-size: 2rem;
-		}
-
-		nav.encabezado li a:hover {
-			color: #C1A924;
-		}
-
-			nav.encabezado ul .botonesNav {
-				display: flex;
-				margin-right: 9rem;
-			}
-
-			nav.encabezado ul .logoNav img {
-				width: 7.5rem;
-				height: 7.5rem;
-				margin: 1rem 2rem;
-			}
-
-	.burgerBoton {
-		display: none;
-		margin-right: 2rem;
+	.textNav:hover {
+    	color: #C1A924;
 	}
-
-		.burgerBoton img {
-			width: 7.5rem;
-			height: 7.5rem;
-		}
-
 
 /* -------------------------- */
 
 footer {
 	color:#C1A924;
-	background-color: rgba(0,0,0,1);
 	font-size: 1.3rem;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	align-items: center;
-	padding: 4rem;
 }
 
-	footer .footer1 {	
-		display: flex;
-		flex-direction: column;
-		align-items: center;
+	.iconRedes {	
+		height: 5rem;
+		width: 5rem;
 	}
-
-	footer .footer2 {	
-		display: flex;
-		flex-direction: row;
-		align-items: center;
-		padding-right: 2rem;
+	
+	.h3Footer{
+		font-size: 1.75rem;
+		padding-bottom: 2rem;
 	}
-
-		footer .footer2  {	
-			display: flex;
-			flex-direction: row;
-			align-items: center;
-			padding-right: 2rem;
-		}
-
-			footer .footer2 nav{
-				padding-left: 3rem;
-			}
-
-			footer .footer2 img {	
-				height: 5rem;
-				width: 5rem;
-			}
 
 /* -------------------------- */
 /* -------------------------- */
@@ -301,37 +251,9 @@ footer {
 	justify-content: center;	
 }
 
-	.productos figure {
-		min-width: 200px; 
-		width: 15vw;
-		height: 55vh;
-		margin: 1rem 3rem;
-		padding: 1rem;
-		border: 8px solid black;
-		background-color: #C2C2C2;
-
-	}
-
-	.productos img {
-		min-width: 200px;
-		width: 15vw;
-		height: 40vh;
-	}
-
-	.productos figure figcaption {
-		font-size: 2.2rem;
-		text-align: center;
-		margin: 2rem;
-		font-weight: bold;
-		text-decoration: underline;
-	}
-
-	.productos figure p {
-		text-align: center;
-		font-size: 2rem;
-		margin: 2rem;
-		font-weight: bold;
-	}
+.borderCard {
+	border: 2px solid black;
+}
 
 .tiendaMain h1 {
 	font-size: 2.9rem;
@@ -420,7 +342,6 @@ footer {
 
 	.faqMain h1{
 		font-size: 2.9rem;
-		text-align: center;
 		padding: 3rem;
 		text-transform: uppercase;
 	}
@@ -456,20 +377,6 @@ footer {
 
 	.asideNosotros {
 		grid-area: aside;
-	}
-
-/* ---------------------------- */
-
-				/* HEADER de NOSOTROS */
-
-.imgNosotros {
-	background-color: #505050;
-	display: flex;
-	justify-content: center;
-}
-	.imgNosotros img{
-		height: 75vh;
-		width: 90%;
 	}
 
 /* ---------------------------- */
@@ -537,7 +444,8 @@ footer {
 .mainContacto {
 	background-image: url(../img/fondo/presence-ii.png);
 	background-attachment: fixed;
-	padding-top: 6rem;
+	padding: 10rem 20rem 20rem 20rem;
+
 }
 	
 	.mainContacto h1 {
@@ -549,84 +457,24 @@ footer {
 		color: #F8F2DB;	
 	}
 
-	.formContainer {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		
+	.containerForm {
+		margin-top: 15rem;
+		border: 0.5rem solid #8E7B38;
+		padding: 8rem;
+		background: rgb(0,0,0);
+		background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(129,129,129,0.6) 92%);
 	}
-	
-		.formNos {
-			border-radius: 1rem;
-			padding: 10rem 0;
-			margin: 15rem 0;
-			border: 0.5rem solid #8E7B38;
-			background: rgb(0,0,0);
-			background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(129,129,129,0.6) 92%);
-			display: flex;
-			flex-flow: row wrap;
-			width: 50vw;
-			justify-content: center;
-			align-content: center;
-			align-items: center;
-		}
 
-		.formIzq1 {
-			grid-area: izq1;
-		}
-
-		.formDer1 {
-			grid-area: der1;
-		}
-
-		.formIzq2 {
-			grid-area: izq2;
-		}
-
-		.formDer2 {
-			grid-area: der2;
-		}
-
-		.formMensaje {
-			grid-area: msj;
-		}
-
-		.btEnviar {
-			grid-area: enviar;
-		}
-
-			.formNos input {
-				width: 12vw;
-				padding: .8rem 2rem;
-				margin: 2rem 4rem;
-				border-radius: 2rem;
-				border: 0.5rem solid #8E7B38;
-			}
-
-			.formNos textarea  {
-
-				border-radius: 1rem;
-				border: 0.5rem solid #8E7B38;
-				min-width: 37vw;
-				min-height: 14rem;
-				max-width: 37vw;
-				max-height: 14rem;
-				box-sizing: border-box;
-				margin-top: 5rem;
-			}
-
-			.formNos .btEnviar input {
-				border-radius: 1rem;
-				background: linear-gradient( #000000,#8E7B38);
-				color: white;
-				font-weight: bold;
-				border: none;
-				cursor: grab;
-				width: 10vw;
-				height: 4rem;	
-				padding: 0;
-				margin-top: 5rem;
-			}
+	.bntForm-propio {
+	    color: #fff;
+	    background: linear-gradient( #000000,#8E7B38);
+	    border-color: #000000;
+	    font-weight: bold;
+	    font-size: 1.5rem;
+	    padding: 1rem 8rem;
+	    margin-top: 4rem;
+	    border-radius: 4px;
+	}
 
 /* ---------------------------- */
 /* ---------------------------- */
@@ -634,51 +482,63 @@ footer {
 											/* MEDIA QUERIES */
 
 
-@media only screen and (max-width: 910px) {
+@media (max-width: 500px) {
 
-	
+	/* CONTACTO */
 
-	nav.encabezado ul .botonesNav {
-		display: none;
+	.mainContacto { 
+		padding: 4rem 0.5rem;
 	}
 
-	.burgerBoton {
-		display: flex;
-		justify-content: flex-end;
-	}
-
-
-	footer {
-		flex-direction: column-reverse;
-	}
-
-		footer .footer2 {
-			margin-bottom: 3.5rem;
+		.mainContacto h1 {
+			font-size: 1.7rem;
 		}
+
+	.containerForm {
+		padding: 6rem 1rem;
+		margin-top: 5rem;
+		margin-bottom: 6rem;
+	}
+
+	.bntForm-propio {
+	    font-size: 1rem;
+	    padding: 0.7rem 3.5rem;
+	    margin-top: 4rem;
+	    border-radius: 4px;
+	}
+
+}
+
+@media (max-width: 620px) {
+
+	/* PREGUNTAS FRECUENTES */
+
+.faqMain {
+	padding: 0rem;
+}
+
+	.faqMain h1{
+		font-size: 2.4rem;
+		text-align: center;
+	}
+
+	.faqMain h2 {
+		margin: 0.5rem;
+		font-size: 1.5rem;
+	}
 }
 
 
-@media only screen and (max-width: 999px) {
+@media (min-width: 501px) and (max-width: 1100px) {
 
- 	/* CONTACTO */
+	/* CONTACTO */
 
-	.formNos {
-		width: 70vw;
-	}
-
-	.formNos input {
-		width: 40vw;
-	}
-
-	.formNos textarea  {
-		max-width: 60vw;
-		min-width: 60vw;
+	.mainContacto {
+		padding: 4rem 7rem 7rem 7rem;
 	}
 }
 
-
-
-@media only screen and (max-width: 1100px) {
+@media (max-width: 1100px) {
 
 	/* HEADER */
 
@@ -715,7 +575,8 @@ footer {
 	.imgNosotros img {
 		height: 45vh;
 		width: 90%;
-	}		
+	}
+	
 }
 
 
@@ -745,10 +606,12 @@ footer {
 	}	
 
 		.asideNosotros iframe {
-		 width: 80vw;
-		 height: 45rem;
-		}	
+			 width: 80vw;
+			 height: 45rem;
+		}		
 }
+
+
 
 
 	
