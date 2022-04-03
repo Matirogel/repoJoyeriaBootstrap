@@ -1,8 +1,8 @@
 * {
 	font-family: 'Nanum Gothic', sans-serif;
 	margin: 0;
-	padding: 0;
-	
+	padding: 0;	
+	max-width: 100%;
 }
 
 html {
@@ -167,7 +167,7 @@ footer {
 		}
 
 			.art2 .servicioContainer {
-				width: 90%;
+				width: 100%;
 				display: flex;
 				flex-direction: row;
 				flex-wrap: wrap;
@@ -176,8 +176,8 @@ footer {
 
 			.art2 .imgServicio img {
 						width: 34vw;
-						height: 65vh;
-						margin: 0 6rem;
+						height: 75vh;
+						margin-right: 10rem;
 						border: 2px solid #404040;
 			}
 
@@ -212,7 +212,7 @@ footer {
 
 .tiendaMadre {
 	display: grid;
-	grid-template-columns: 10% 80% 10%;
+	grid-template-columns: 20% 60% 20%;
 	grid-template-rows: auto;
 	grid-template-areas: "header header header"
 						"aside main div"
@@ -388,7 +388,8 @@ footer {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
-	margin: 4rem;
+	padding: 4rem;
+	max-width: 100%;
 }
 
 	.mainNosotros h1 {
@@ -430,8 +431,8 @@ footer {
 	}
 
 		.asideNosotros iframe {
-		 width: 30vw;
-		 height: 45rem;
+			 width: 30vw;
+			 height: 45rem;
 		}
 
 /* ---------------------------- */
@@ -450,11 +451,18 @@ footer {
 	
 	.mainContacto h1 {
 		font-size: 2.9rem;
-		text-align: center;
 		padding: 3rem;
 		text-transform: uppercase;
 		background-color: #696969;
 		color: #F8F2DB;	
+	}
+
+	.mainContacto h2 {
+		font-size: 1.7rem;
+		padding: 10rem 3rem;
+		margin-top: -.5rem;
+		background-color: rgba(183,183,183,0.3);
+		color: #3F3F3F;	
 	}
 
 	.containerForm {
