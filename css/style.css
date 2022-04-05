@@ -520,6 +520,7 @@ footer {
 
 @media (max-width: 620px) {
 
+
 	/* PREGUNTAS FRECUENTES */
 
 .faqMain {
@@ -549,34 +550,30 @@ footer {
 
 @media (max-width: 1100px) {
 
-	/* HEADER */
-
-	.imgIndex {
-		height: 40vh;
-		width: 100vw;
-		max-width: 100%;
-	}
 
 	/* INDEX */
-
-	.art2Container {
+	
+	.art2 .art2Container {
 		flex-direction: column;
+		padding-right: 0rem;
 	}
 
+
+	.art2Container 
+
 		.art2 .servicioContainer{
-			width: 100vw;
+			width: auto;
 		}
 
 			.art2 .servicioContainer .servicio {
-				width: 80vw;
-
+				width: 90vw;
+				margin: 30px 0;
 			}
 
 				.art2 .imgServicio img {	
 					width: 70vw;
 					height: auto;
 					margin: 4rem 0rem;
-
 				}
 
 
